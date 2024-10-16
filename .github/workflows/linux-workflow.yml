@@ -9,24 +9,24 @@ jobs:
     steps:   
       - name: Check installed dependencies
         run: |
-          echo "Hello World
+          echo "Hello World"
       
       - name: Check installed dependencies
         run: |
-          echo "Hello World
+          echo "Hello World"
   
       - name: Check installed dependencies
         run: |
-          echo "Hello World
+          echo "Hello World"
       
       - name: Check installed dependencies
         run: |
-          echo "Hello World
+          echo "Hello World"
       
       - name: Check installed dependencies
         run: |
-          echo "Hello World
+          echo "Hello World"
   
       - name: Check installed dependencies
         run: |
-          echo "Hello World
+          echo "Hello World"
